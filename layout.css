@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  max-width: 1026px;
+  margin: 0 auto;
+}
+.home-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 20px;
+}
